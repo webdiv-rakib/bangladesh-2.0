@@ -200,19 +200,35 @@ body {
 }
 
 /* Opinion section design */
-#opinion-section{
+#opinion-section {
     margin-top: 80px;
     margin-left: 160px;
 }
-table{
+
+table {
     width: 1216px;
     border-collapse: collapse;
 }
-.opinion-table{
+
+.opinion-table {
     margin: 0 auto;
+    border: 2px solid #c6c6c6;
 }
+
 th,
 td {
     padding: 24px;
     border: 1px solid;
+    border: 2px solid #c6c6c6;
+}
+
+.select {
+    padding: 10px 14px;
+    background-color: #C6E4D6;
+    border-radius: 4px;
+}
+
+.options {
+    text-align: center;
+
 }
