@@ -46,5 +46,31 @@ body {
     padding: 80px 100px;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    /* align-items: center; */
+}
+
+.banner-info {
+    width: 622px;
+}
+
+.ban-1 {
+    font-size: 24px;
+    font-weight: 500;
+    color: #0E0E0E80;
+    margin-top: 16px;
+}
+
+.banner-description {
+    font-size: 56px;
+    font-weight: 700;
+    margin-top: 16px;
+}
+
+.ex-btn {
+    padding: 17px 34px;
+    border-radius: 8px;
+    background-color: #006A50;
+    color: white;
+    border: none;
+    margin-top: 24px;
 }
