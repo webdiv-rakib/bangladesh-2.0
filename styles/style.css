@@ -205,9 +205,25 @@ body {
     margin-left: 160px;
 }
 
+.opinion-title {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.opinion-table-back {
+    width: 1280px;
+    padding: 32px;
+    border-radius: 16px;
+    box-shadow: 1px 1px 2px 2px #0E0E0E26;
+    margin: 0 auto;
+    margin-left: 230px;
+    margin-top: 24px;
+}
+
 table {
     width: 1216px;
     border-collapse: collapse;
+
 }
 
 .opinion-table {
@@ -222,10 +238,17 @@ td {
     border: 2px solid #c6c6c6;
 }
 
+.question {
+    font-size: 16px;
+    font-weight: 600;
+}
+
 .select {
     padding: 10px 14px;
     background-color: #C6E4D6;
     border-radius: 4px;
+    font-size: 16px;
+    font-weight: 500;
 }
 
 .options {
