@@ -320,3 +320,37 @@ td {
     color: white;
     margin-top: 32px;
 }
+
+/* Donate section design */
+.donate-title {}
+
+.donate-amount-cards {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-top: 32px;
+}
+
+.donate-card {
+    padding: 40px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    width: 240px;
+    text-align: center;
+    border-radius: 16px;
+}
+
+.amount {
+    font-size: 40px;
+    font-weight: 700;
+    color: #0E0E0ECC;
+}
+
+.donate-btn {
+    padding: 17px 34px;
+    border: none;
+    border-radius: 8px;
+    background-color: #006A50;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
