@@ -163,3 +163,36 @@ body {
     font-weight: 600;
     margin-top: 24px;
 }
+
+/* Speech section design */
+#speech-section {
+    margin-top: 32px;
+}
+
+.speech-container {
+    width: 1280px;
+    padding: 48px 24px;
+    border: 1px solid #0E0E0E26;
+    border-radius: 16px;
+    margin: 0 auto;
+    background-image: url("../assets/quote-bg.png");
+    background-repeat: no-repeat;
+    background-position: left 24px top 24px;
+}
+
+.speech {
+    font-size: 16px;
+    font-weight: 400;
+    color: #0E0E0ECC;
+}
+
+.cheif {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.cheif-position {
+    font-size: 16px;
+    font-weight: 400;
+    color: #0E0E0E99;
+}
