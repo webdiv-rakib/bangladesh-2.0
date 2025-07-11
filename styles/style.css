@@ -92,7 +92,6 @@ body {
 
 .card-main {
     width: 302px;
-    height: 244px;
     border: 1px solid #e7e7e7;
     padding: 32px;
     border-radius: 16px;
@@ -110,4 +109,52 @@ body {
     font-weight: 400;
     color: #0E0E0EB3;
     margin-top: 12px;
+}
+
+/* Future section design */
+#future-section {
+    margin-top: 80px;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+
+.future-title {
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 24px;
+}
+
+.future-des {
+    color: #0E0E0EB3;
+}
+
+.future-cards {
+    width: 410px;
+
+    padding: 32px;
+    border-radius: 16px;
+    background-color: #5490F533;
+    margin-top: 32px;
+}
+
+.vision {
+    font-size: 20px;
+    font-weight: 700;
+    color: #0E0E0ECC;
+    margin-top: 25px;
+}
+
+.vision-des {
+    margin-top: 12px;
+}
+
+.learn-btn {
+    padding: 11px 20px;
+    border-radius: 8px;
+    border: none;
+    background-color: #5490F5;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 24px;
 }
