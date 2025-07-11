@@ -128,9 +128,14 @@ body {
     color: #0E0E0EB3;
 }
 
+.future-card-main {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
 .future-cards {
     width: 410px;
-
     padding: 32px;
     border-radius: 16px;
     background-color: #5490F533;
