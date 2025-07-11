@@ -173,6 +173,7 @@ body {
     width: 1280px;
     padding: 48px 24px;
     border: 1px solid #0E0E0E26;
+    box-shadow: 1px 1px 2px 2px #0E0E0E26;
     border-radius: 16px;
     margin: 0 auto;
     background-image: url("../assets/quote-bg.png");
@@ -189,10 +190,29 @@ body {
 .cheif {
     font-size: 20px;
     font-weight: 600;
+    margin-top: 12px;
 }
 
 .cheif-position {
     font-size: 16px;
     font-weight: 400;
     color: #0E0E0E99;
+}
+
+/* Opinion section design */
+#opinion-section{
+    margin-top: 80px;
+    margin-left: 160px;
+}
+table{
+    width: 1216px;
+    border-collapse: collapse;
+}
+.opinion-table{
+    margin: 0 auto;
+}
+th,
+td {
+    padding: 24px;
+    border: 1px solid;
 }
