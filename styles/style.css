@@ -74,3 +74,40 @@ body {
     border: none;
     margin-top: 24px;
 }
+
+/* Pillers section design */
+#card-section {
+    margin-left: 160px;
+    margin-top: 80px;
+}
+
+.card-container {
+    margin-top: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    margin-right: 160px;
+}
+
+.card-main {
+    width: 302px;
+    height: 244px;
+    border: 1px solid #e7e7e7;
+    padding: 32px;
+    border-radius: 16px;
+}
+
+.innovation {
+    font-size: 20px;
+    font-weight: 700;
+    color: #0E0E0ECC;
+    margin-top: 33px;
+}
+
+.innovation-des {
+    font-size: 16px;
+    font-weight: 400;
+    color: #0E0E0EB3;
+    margin-top: 12px;
+}
