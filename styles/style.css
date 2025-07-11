@@ -364,3 +364,9 @@ td {
     border-radius: 24px;
     margin-top: 80px;
 }
+
+/* Footer section design */
+.footer-container {
+    text-align: center;
+    margin-top: 80px;
+}
